@@ -20,6 +20,6 @@ saving your submission).
 
 # Steps to work on this course project
 
-Download the data files from github and the data set from *https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip* and put into a folder on your local drive. 
-Put run_analysis.R (from github) in the parent folder of the dataset, then set it as your working directory using setwd() function in RStudio.
-Run source("run_analysis.R"), then it will generate a new file tiny_data.txt in your working directory.
+1. Download the data files from github and the data set from *https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip* and put into a folder on your local drive. 
+2. Put run_analysis.R (from github) in the parent folder of the dataset, then set it as your working directory using setwd() function in RStudio.
+3. Run source("run_analysis.R"), then it will generate a new file tiny_data.txt in your working directory.
